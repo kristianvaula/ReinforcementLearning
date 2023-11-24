@@ -1,5 +1,5 @@
 # IDATT2502 - Project Assignment 
-- written by Daniel Skymoen, Edvard Schøyen, Jarand Romestrand, Kristian Vaula Jensen
+Group project in the course Anvendt Maskin Learning. The project lasted a month, and the group consisted of Daniel Skymoen, Edvard Schøyen, Jarand Romestrand, Kristian Vaula Jensen.
 
 ## Assignment
 ### Various reinforcement learning tasks
