@@ -129,7 +129,7 @@ make clean
 ```
 
 ## Example runs
-Here are some example runs:
+Here are some example runs at 15k episodes:
 
 ### DDQN
 Example runs with DDQN:
