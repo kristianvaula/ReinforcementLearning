@@ -1,0 +1,14 @@
+gym==0.25.1
+gym-notices==0.0.8
+gym-super-mario-bros==7.4.0
+numpy
+tqdm==4.66.1
+python-dotenv
+opencv-python==4.8.1.78
+neptune
+black==22.3.0
+isort==5.10.1
+flake8==4.0.1
+pygame
+argparse
+matplotlib==3.8.1
