@@ -1,6 +1,10 @@
 # IDATT2502 - Project Assignment 
 Group project in the course Anvendt Maskin Learning. The project lasted a month, and the group consisted of Daniel Skymoen, Edvard Schøyen, Jarand Romestrand, Kristian Vaula Jensen.
 
+<img src="assets/ppo_super_mario_1.gif" alt="PPO Run" width="400"/>
+
+<a href="https://github.com/kristianvaula/ReinforcementLearning/blob/main/ddqn_and_ppo_super_mario_bros_environment.pdf">Link to our article here.</a>
+
 ## Assignment
 ### Various reinforcement learning tasks
 #### Assignment proposals:
